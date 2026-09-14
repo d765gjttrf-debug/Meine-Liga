@@ -9567,6 +9567,14 @@
           "ergebnis": "Niederlage",
           "erhalten": 910,
           "ausgegeben": 0
+        },
+        {
+          "typ": "spieltag",
+          "label": "8. Spieltag",
+          "position": null,
+          "ergebnis": "Sieg",
+          "erhalten": 1820,
+          "ausgegeben": 0
         }
       ]
     }
@@ -10012,5 +10020,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-13T16:29:30.535Z"
+  "updatedAt": "2026-09-14T06:30:33.568Z"
 }
