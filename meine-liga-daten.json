@@ -9575,6 +9575,14 @@
           "ergebnis": "Sieg",
           "erhalten": 1820,
           "ausgegeben": 0
+        },
+        {
+          "typ": "spieltag",
+          "label": "9. Spieltag",
+          "position": null,
+          "ergebnis": "Schlüsselspiel",
+          "erhalten": 1820,
+          "ausgegeben": 0
         }
       ]
     }
@@ -10020,5 +10028,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-14T06:30:33.568Z"
+  "updatedAt": "2026-09-16T12:16:52.681Z"
 }
