@@ -8873,6 +8873,22 @@
         "pesdbId": "88045755861672",
         "pesdbUrl": "https://pesdb.net/efootball/players/gareth-bale-88045755861672",
         "customImage": null
+      },
+      {
+        "name": "Ibrahim Maza",
+        "position": "OMF",
+        "playstyle": "Stoßstürmer",
+        "playstyleD": "Passblockierer",
+        "maxLevel": false,
+        "kartentyp": "Road to CAF AFCON 2027",
+        "erscheinung": "09.2026",
+        "marktwert": 45000000,
+        "ausgleich": 0,
+        "mitAusgleich": 45000000,
+        "punkte": 13500,
+        "pesdbId": "106797935535829",
+        "pesdbUrl": "https://pesdb.net/efootball/players/ibrahim-maza-106797935535829",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10052,5 +10068,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-19T05:37:34.978Z"
+  "updatedAt": "2026-09-19T05:39:11.931Z"
 }
