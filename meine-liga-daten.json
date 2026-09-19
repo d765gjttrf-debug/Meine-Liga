@@ -8857,6 +8857,22 @@
         "pesdbId": "105880876118884",
         "pesdbUrl": "https://pesdb.net/efootball/players/sato-ryunosuke-105880876118884",
         "customImage": null
+      },
+      {
+        "name": "Gareth Bale",
+        "position": "RA",
+        "playstyle": "Meisterhafter Flügel",
+        "playstyleD": "Vollblutstürmer",
+        "maxLevel": false,
+        "kartentyp": "Legend",
+        "erscheinung": "2016",
+        "marktwert": 90000000,
+        "ausgleich": 114.4,
+        "mitAusgleich": 192960000,
+        "punkte": 57888,
+        "pesdbId": "88045755861672",
+        "pesdbUrl": "https://pesdb.net/efootball/players/gareth-bale-88045755861672",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10036,5 +10052,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-17T16:36:14.932Z"
+  "updatedAt": "2026-09-19T05:37:34.978Z"
 }
