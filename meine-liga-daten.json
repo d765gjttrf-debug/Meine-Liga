@@ -8889,6 +8889,22 @@
         "pesdbId": "106797935535829",
         "pesdbUrl": "https://pesdb.net/efootball/players/ibrahim-maza-106797935535829",
         "customImage": null
+      },
+      {
+        "name": "David Raya",
+        "position": "TW",
+        "playstyle": "Hoch stehender TW",
+        "playstyleD": "Offensiver TW",
+        "maxLevel": true,
+        "kartentyp": "POTW",
+        "erscheinung": "09.2026",
+        "marktwert": 30000000,
+        "ausgleich": 0,
+        "mitAusgleich": 30000000,
+        "punkte": 9000,
+        "pesdbId": "52902991334544",
+        "pesdbUrl": "https://pesdb.net/efootball/players/david-raya-52902991334544",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10068,5 +10084,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-19T05:39:11.931Z"
+  "updatedAt": "2026-09-19T05:40:21.384Z"
 }
