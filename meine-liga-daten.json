@@ -8905,6 +8905,22 @@
         "pesdbId": "52902991334544",
         "pesdbUrl": "https://pesdb.net/efootball/players/david-raya-52902991334544",
         "customImage": null
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "position": "ZMF",
+        "playstyle": "Dirigent",
+        "playstyleD": "Defensivspezialist",
+        "maxLevel": true,
+        "kartentyp": "POTW European Club Championship",
+        "erscheinung": "09.2026",
+        "marktwert": 70000000,
+        "ausgleich": 0,
+        "mitAusgleich": 70000000,
+        "punkte": 21000,
+        "pesdbId": "52912386590527",
+        "pesdbUrl": "https://pesdb.net/efootball/players/alexis-mac-allister-52912386590527",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10084,5 +10100,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-19T05:40:21.384Z"
+  "updatedAt": "2026-09-19T05:41:51.546Z"
 }
