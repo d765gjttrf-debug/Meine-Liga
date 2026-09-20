@@ -8921,6 +8921,22 @@
         "pesdbId": "52912386590527",
         "pesdbUrl": "https://pesdb.net/efootball/players/alexis-mac-allister-52912386590527",
         "customImage": null
+      },
+      {
+        "name": "K. Kvaratskhelia",
+        "position": "LA",
+        "playstyle": "Meisterhafter Flügel",
+        "playstyleD": "Hohes Pressing",
+        "maxLevel": false,
+        "kartentyp": "Anticipated Standouts",
+        "erscheinung": "09.2026",
+        "marktwert": 140000000,
+        "ausgleich": 0,
+        "mitAusgleich": 140000000,
+        "punkte": 42000,
+        "pesdbId": "105880876086992",
+        "pesdbUrl": "https://pesdb.net/efootball/players/k-kvaratskhelia-105880876086992",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10100,5 +10116,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-19T05:41:51.546Z"
+  "updatedAt": "2026-09-20T07:51:20.874Z"
 }
