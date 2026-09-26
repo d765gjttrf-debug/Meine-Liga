@@ -8937,6 +8937,22 @@
         "pesdbId": "105880876086992",
         "pesdbUrl": "https://pesdb.net/efootball/players/k-kvaratskhelia-105880876086992",
         "customImage": null
+      },
+      {
+        "name": "Gonzalo Ramos",
+        "position": "MS",
+        "playstyle": "Strafraumfuchs",
+        "playstyleD": null,
+        "maxLevel": false,
+        "kartentyp": "European Club Selection",
+        "erscheinung": "09.2026",
+        "marktwert": 50000000,
+        "ausgleich": 0,
+        "mitAusgleich": 50000000,
+        "punkte": 15000,
+        "pesdbId": "105873359900298",
+        "pesdbUrl": "https://pesdb.net/efootball/players/goncalo-ramos-105873359900298",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10116,5 +10132,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-20T07:51:20.874Z"
+  "updatedAt": "2026-09-26T12:37:30.089Z"
 }
