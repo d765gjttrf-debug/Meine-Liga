@@ -8953,6 +8953,22 @@
         "pesdbId": "105873359900298",
         "pesdbUrl": "https://pesdb.net/efootball/players/goncalo-ramos-105873359900298",
         "customImage": null
+      },
+      {
+        "name": "Thiago Pitarch",
+        "position": "ZMF",
+        "playstyle": "Allrounder",
+        "playstyleD": "Allrounder",
+        "maxLevel": false,
+        "kartentyp": "Anticipated Standouts 26-27",
+        "erscheinung": "09.2026",
+        "marktwert": 20000000,
+        "ausgleich": 0,
+        "mitAusgleich": 20000000,
+        "punkte": 6000,
+        "pesdbId": "105880876137536",
+        "pesdbUrl": "https://pesdb.net/efootball/players/thiago-pitarch-105880876137536",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10132,5 +10148,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-26T12:37:30.089Z"
+  "updatedAt": "2026-09-26T12:39:30.312Z"
 }
