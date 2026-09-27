@@ -8985,6 +8985,22 @@
         "pesdbId": "105855995501867",
         "pesdbUrl": "https://pesdb.net/efootball/players/noah-sadiki-105855995501867",
         "customImage": null
+      },
+      {
+        "name": "Lautaro Martinez",
+        "position": "MS",
+        "playstyle": "Hängende Spitze",
+        "playstyleD": null,
+        "maxLevel": false,
+        "kartentyp": "Daily Bonus 2027",
+        "erscheinung": "09.2026",
+        "marktwert": 85000000,
+        "ausgleich": 0,
+        "mitAusgleich": 85000000,
+        "punkte": 25500,
+        "pesdbId": "105867185858673",
+        "pesdbUrl": "https://pesdb.net/efootball/players/lautaro-martinez-105867185858673",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10164,5 +10180,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-27T05:46:56.502Z"
+  "updatedAt": "2026-09-27T05:48:46.212Z"
 }
