@@ -8969,6 +8969,22 @@
         "pesdbId": "105880876137536",
         "pesdbUrl": "https://pesdb.net/efootball/players/thiago-pitarch-105880876137536",
         "customImage": null
+      },
+      {
+        "name": "Noah Sadiki",
+        "position": "ZMF",
+        "playstyle": "Allrounder",
+        "playstyleD": "Allrounder",
+        "maxLevel": false,
+        "kartentyp": "Eric Cantona 2026",
+        "erscheinung": "09.2026",
+        "marktwert": 35000000,
+        "ausgleich": 0,
+        "mitAusgleich": 35000000,
+        "punkte": 10500,
+        "pesdbId": "105855995501867",
+        "pesdbUrl": "https://pesdb.net/efootball/players/noah-sadiki-105855995501867",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10148,5 +10164,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-26T12:39:30.312Z"
+  "updatedAt": "2026-09-27T05:46:56.502Z"
 }
