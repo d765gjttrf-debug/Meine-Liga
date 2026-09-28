@@ -9001,6 +9001,22 @@
         "pesdbId": "105867185858673",
         "pesdbUrl": "https://pesdb.net/efootball/players/lautaro-martinez-105867185858673",
         "customImage": null
+      },
+      {
+        "name": "Eric Cantona",
+        "position": "MS",
+        "playstyle": "Hängende Spitze",
+        "playstyleD": "Vollblutstürmer",
+        "maxLevel": false,
+        "kartentyp": "Legend",
+        "erscheinung": "1992",
+        "marktwert": 1800000,
+        "ausgleich": 2335.9,
+        "mitAusgleich": 43846200,
+        "punkte": 13153.86,
+        "pesdbId": "88045755828961",
+        "pesdbUrl": "https://pesdb.net/efootball/players/eric-cantona-88045755828961",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10180,5 +10196,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-27T05:48:46.212Z"
+  "updatedAt": "2026-09-28T03:36:02.842Z"
 }
