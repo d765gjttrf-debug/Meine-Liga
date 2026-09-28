@@ -9017,6 +9017,22 @@
         "pesdbId": "88045755828961",
         "pesdbUrl": "https://pesdb.net/efootball/players/eric-cantona-88045755828961",
         "customImage": null
+      },
+      {
+        "name": "Nicola Zalewski",
+        "position": "LMF",
+        "playstyle": "Allrounder",
+        "playstyleD": "Allrounder",
+        "maxLevel": false,
+        "kartentyp": "National Team Selection Midfielders",
+        "erscheinung": "03.2026",
+        "marktwert": 20000000,
+        "ausgleich": 0,
+        "mitAusgleich": 20000000,
+        "punkte": 6000,
+        "pesdbId": "105833094587644",
+        "pesdbUrl": "https://pesdb.net/efootball/players/nicola-zalewski-105833094587644",
+        "customImage": null
       }
     ],
     "Trainerliste": [
@@ -10196,5 +10212,5 @@
       "prozent": 0
     }
   ],
-  "updatedAt": "2026-09-28T03:36:02.842Z"
+  "updatedAt": "2026-09-28T03:37:31.273Z"
 }
